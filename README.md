@@ -26,11 +26,11 @@ Total: 1190 observations, Duplicated: 272 observations, Final dataset Size: 918 
 ![image](https://github.com/shereenIbdah/Heart-Failure-Prediction/assets/108181177/709466c5-c5ca-463f-b776-54600d928fc0)
 ## Methodology:
 
-### Data Preprocessing: We conducted initial data exploration to identify missing values, outliers, and potential inconsistencies. Categorical variables were encoded appropriately, and numerical features were scaled to ensure uniformity.
-### Exploratory Data Analysis (EDA): EDA involved visualizing the distribution of features, exploring correlations, and identifying patterns that could offer insights into the relationships between variables and the target.
-### Feature Selection: We employed techniques such as correlation analysis, feature importance ranking, and domain knowledge to select the most relevant features for model training.
-### Model Development: Several machine learning algorithms, including logistic regression, decision trees, random forests, and gradient boosting, were trained on the dataset. Hyperparameter tuning and cross-validation were performed to optimize model performance.
-### Model Evaluation: The models were evaluated using metrics such as accuracy, precision, recall, F1-score, and area under the receiver operating characteristic curve (AUC-ROC) to assess their predictive capabilities.
+Data Preprocessing: We conducted initial data exploration to identify missing values, outliers, and potential inconsistencies. Categorical variables were encoded appropriately, and numerical features were scaled to ensure uniformity.
+Exploratory Data Analysis (EDA): EDA involved visualizing the distribution of features, exploring correlations, and identifying patterns that could offer insights into the relationships between variables and the target.
+Feature Selection: We employed techniques such as correlation analysis, feature importance ranking, and domain knowledge to select the most relevant features for model training.
+Model Development: Several machine learning algorithms, including logistic regression, decision trees, random forests, and gradient boosting, were trained on the dataset. Hyperparameter tuning and cross-validation were performed to optimize model performance.
+Model Evaluation: The models were evaluated using metrics such as accuracy, precision, recall, F1-score, and area under the receiver operating characteristic curve (AUC-ROC) to assess their predictive capabilities.
 ## Conclusion:
 Our study demonstrates the feasibility of using machine learning techniques to predict the risk of heart disease based on various patient attributes. By leveraging these predictive models, healthcare professionals can identify high-risk individuals early and implement targeted interventions to mitigate the impact of cardiovascular diseases.
 
